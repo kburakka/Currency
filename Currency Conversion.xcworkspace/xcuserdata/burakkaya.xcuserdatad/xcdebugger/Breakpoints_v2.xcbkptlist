@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "129FD331-2FE0-4452-B94F-00DC4AFEC31F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC65F2F3-D0C4-4E9F-AF93-0F6D69CAC6E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency Conversion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "cevirButonAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC65F2F3-D0C4-4E9F-AF93-0F6D69CAC6E7 - b5777df106121384"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Currency_Conversion.ViewController.cevirButonAction(Any) -&gt; ()"
+                  moduleName = "Currency Conversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkaya/Desktop/Currency%20Conversion/Currency%20Conversion/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "EC65F2F3-D0C4-4E9F-AF93-0F6D69CAC6E7 - b5777df106121384"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Currency_Conversion.ViewController.cevirButonAction(Any) -&gt; ()"
+                  moduleName = "Currency Conversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkaya/Desktop/Currency%20Conversion/Currency%20Conversion/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "EC65F2F3-D0C4-4E9F-AF93-0F6D69CAC6E7 - ab0ea581a7477088"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Currency_Conversion.ViewController.cevirButonAction(Any) -&gt; ()"
+                  moduleName = "Currency Conversion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkaya/Desktop/Currency%20Conversion/Currency%20Conversion/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "862063E5-8BF7-44C6-B9D1-FCA2F68999CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Currency Conversion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "cevirButonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
